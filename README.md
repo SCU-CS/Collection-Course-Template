@@ -10,9 +10,12 @@ The template of course repository
 
 结构设计图
 
-![](https://www.processon.com/view/6135b145f346fb071560c332)
+![architecture](images/architecture.png)
 
 课程增减等需要改动侧边栏的操作，需要改文件 `docsify.d/SideBar.md`
+
+图片放在 **images** 文件夹下
+
 ## 免责
 
 ***商用禁止*** 
